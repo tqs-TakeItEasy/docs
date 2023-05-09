@@ -1,4 +1,4 @@
-# TakeItEasy
+# Take It Easy
 
 </br >
 
